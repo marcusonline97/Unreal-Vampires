@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal Projects\\Vampire_Game_UE5\\Source\\Vampire_Game_UE5\\Vampire_Game_UE5.Build.cs",
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal Projects\\Vampire_Game_UE5\\Source\\Vampire_Game_UE5.Target.cs",
+		"C:\\Users\\MarcusPersson\\Documents\\Unreal Projects\\Vampire_Game_UE5\\Source\\Vampire_Game_UE5Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
