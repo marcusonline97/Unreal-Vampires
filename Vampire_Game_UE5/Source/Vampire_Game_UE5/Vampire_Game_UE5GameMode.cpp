@@ -12,3 +12,10 @@ AVampire_Game_UE5GameMode::AVampire_Game_UE5GameMode()
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 }
+
+
+void AVampire_Game_UE5GameMode_InitGame(const FString& MapName, const FString& Options, FString& ErrorMessage)
+{
+	Super::InitGame(MapName, Options, ErrorMessage);
+	UE_LOG(LogVampireGame, Log, TEXT("Game is working: %s %s"), *MapName, *Options);
+}

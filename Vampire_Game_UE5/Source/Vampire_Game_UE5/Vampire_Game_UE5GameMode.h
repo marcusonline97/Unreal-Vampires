@@ -13,6 +13,7 @@ class AVampire_Game_UE5GameMode : public AGameModeBase
 
 public:
 	AVampire_Game_UE5GameMode();
+	virtual void InitGame(const FString& MapName, const FString& Options, FString& ErrorMessage);
 };
 
 

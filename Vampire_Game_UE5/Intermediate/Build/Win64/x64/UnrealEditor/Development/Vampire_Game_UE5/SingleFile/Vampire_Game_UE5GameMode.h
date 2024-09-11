@@ -1,0 +1,1 @@
+#include "C:/Users/MarcusPersson/Documents/Unreal School/Vampire Game/Unreal-Vampires/Vampire_Game_UE5/Source/Vampire_Game_UE5/Vampire_Game_UE5GameMode.h"
