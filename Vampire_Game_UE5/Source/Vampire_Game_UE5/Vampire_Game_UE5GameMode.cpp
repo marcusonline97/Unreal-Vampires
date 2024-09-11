@@ -3,6 +3,7 @@
 #include "Vampire_Game_UE5GameMode.h"
 #include "Vampire_Game_UE5Character.h"
 #include "UObject/ConstructorHelpers.h"
+#include <Runtime/TraceLog/standalone_prologue.h>
 
 AVampire_Game_UE5GameMode::AVampire_Game_UE5GameMode()
 	: Super()
@@ -14,8 +15,8 @@ AVampire_Game_UE5GameMode::AVampire_Game_UE5GameMode()
 }
 
 
-void AVampire_Game_UE5GameMode_InitGame(const FString& MapName, const FString& Options, FString& ErrorMessage)
+void AVampire_Game_UE5GameMode::InitGame(const FString& MapName, const FString& Options, FString& ErrorMessage)
 {
 	Super::InitGame(MapName, Options, ErrorMessage);
-	UE_LOG(LogVampireGame, Log, TEXT("Game is working: %s %s"), *MapName, *Options);
+	UE_LOG(LogTemplateCharacter, Log, TEXT("Game is working: %s %s"), *MapName, *Options);
 }

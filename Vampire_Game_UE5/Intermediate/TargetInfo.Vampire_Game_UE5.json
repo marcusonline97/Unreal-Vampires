@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Vampire_Game_UE5",
+			"Path": "..\\Source\\Vampire_Game_UE5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Vampire_Game_UE5Editor",
+			"Path": "..\\Source\\Vampire_Game_UE5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
