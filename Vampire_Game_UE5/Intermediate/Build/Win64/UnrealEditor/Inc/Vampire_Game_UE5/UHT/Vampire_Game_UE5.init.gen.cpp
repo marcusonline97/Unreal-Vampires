@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeVampire_Game_UE5_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x4B1813AC,
+				0xB675B891,
 				0x55D5F810,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeVampire_Game_UE5_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Vampire_Game_UE5.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Vampire_Game_UE5(Z_Construct_UPackage__Script_Vampire_Game_UE5, TEXT("/Script/Vampire_Game_UE5"), Z_Registration_Info_UPackage__Script_Vampire_Game_UE5, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4B1813AC, 0x55D5F810));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Vampire_Game_UE5(Z_Construct_UPackage__Script_Vampire_Game_UE5, TEXT("/Script/Vampire_Game_UE5"), Z_Registration_Info_UPackage__Script_Vampire_Game_UE5, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB675B891, 0x55D5F810));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

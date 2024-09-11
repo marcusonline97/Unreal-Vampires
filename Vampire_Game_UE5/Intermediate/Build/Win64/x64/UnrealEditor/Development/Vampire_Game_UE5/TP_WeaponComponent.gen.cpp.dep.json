@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\marcuspersson\\documents\\unreal projects\\vampire_game_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\vampire_game_ue5\\uht\\tp_weaponcomponent.gen.cpp",
+        "Source": "c:\\users\\marcuspersson\\documents\\unreal school\\vampire game\\unreal-vampires\\vampire_game_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\vampire_game_ue5\\uht\\tp_weaponcomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\marcuspersson\\documents\\unreal projects\\vampire_game_ue5\\intermediate\\build\\win64\\x64\\vampire_game_ue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\marcuspersson\\documents\\unreal school\\vampire game\\unreal-vampires\\vampire_game_ue5\\intermediate\\build\\win64\\x64\\vampire_game_ue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\marcuspersson\\documents\\unreal projects\\vampire_game_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vampire_game_ue5\\definitions.vampire_game_ue5.h",
-            "c:\\users\\marcuspersson\\documents\\unreal projects\\vampire_game_ue5\\source\\vampire_game_ue5\\tp_weaponcomponent.h",
-            "c:\\users\\marcuspersson\\documents\\unreal projects\\vampire_game_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\vampire_game_ue5\\uht\\tp_weaponcomponent.generated.h"
+            "c:\\users\\marcuspersson\\documents\\unreal school\\vampire game\\unreal-vampires\\vampire_game_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vampire_game_ue5\\definitions.vampire_game_ue5.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\vampire game\\unreal-vampires\\vampire_game_ue5\\source\\vampire_game_ue5\\tp_weaponcomponent.h",
+            "c:\\users\\marcuspersson\\documents\\unreal school\\vampire game\\unreal-vampires\\vampire_game_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\vampire_game_ue5\\uht\\tp_weaponcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

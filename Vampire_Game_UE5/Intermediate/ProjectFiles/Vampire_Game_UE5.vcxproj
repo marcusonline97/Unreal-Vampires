@@ -252,6 +252,7 @@
     <None Include="..\..\Vampire_Game_UE5.uproject"/>
     <None Include="..\..\Source\Vampire_Game_UE5.Target.cs"/>
     <None Include="..\..\Source\Vampire_Game_UE5Editor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

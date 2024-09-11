@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vampire_Game_UE5ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee88f5d39f5b1b2e32d524c59b688d7760b29563")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vampire_Game_UE5ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vampire_Game_UE5ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

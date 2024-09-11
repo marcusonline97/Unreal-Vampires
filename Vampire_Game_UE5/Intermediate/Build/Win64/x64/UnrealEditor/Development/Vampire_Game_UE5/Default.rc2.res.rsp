@@ -80,5 +80,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=Vampire_Game_UE5
-/fo "C:\Users\MarcusPersson\Documents\Unreal Projects\Vampire_Game_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vampire_Game_UE5\Default.rc2.res"
+/fo "C:\Users\MarcusPersson\Documents\Unreal School\Vampire Game\Unreal-Vampires\Vampire_Game_UE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\Vampire_Game_UE5\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

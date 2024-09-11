@@ -1,6 +1,6 @@
 /I "."
-/I "C:\Users\MarcusPersson\Documents\Unreal Projects\Vampire_Game_UE5\Intermediate\Build\Win64\UnrealEditor\Inc\Vampire_Game_UE5\UHT"
-/I "C:\Users\MarcusPersson\Documents\Unreal Projects\Vampire_Game_UE5\Source"
+/I "C:\Users\MarcusPersson\Documents\Unreal School\Vampire Game\Unreal-Vampires\Vampire_Game_UE5\Intermediate\Build\Win64\UnrealEditor\Inc\Vampire_Game_UE5\UHT"
+/I "C:\Users\MarcusPersson\Documents\Unreal School\Vampire Game\Unreal-Vampires\Vampire_Game_UE5\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
